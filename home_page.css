@@ -13,6 +13,31 @@
             height: 60vh;
         }
 
+        .section2 div{
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            padding-top:10px;
+            width:90vw;
+            
+            
+            
+            
+        }
+        
+
+
+
+        .section2div1 img{
+
+            
+            height:400px;
+            width:400px;
+        }
+
+        
+        
+
         .section3 {
             background-color: orange;
             height: 60vh;
