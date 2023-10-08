@@ -1,15 +1,47 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sec1 {
+    background-image: url('asset/img.jpg');
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    height: 50vw;
+    width: 100%;
+}
+.mat{
+
 .section1 {
     padding-left: 10vw;
     padding-right: 10vw;
     background-color: blue;
     height: 60vh;
     align-items: center;
+
     justify-content: center;
 }
-
-.section2 {
-    background-color: red;
+.sec2 {
     height: 60vh;
+    margin-top:10vw;
+}
+.sec2 img{
+    width:30%;
+    margin-left: 15%;
+}
+.content{
+    float:right;
+    padding-right: 15%;
+    padding-top: 5%;
+    width: 40%;
 }
 
 .section3 {
