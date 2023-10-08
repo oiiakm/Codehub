@@ -1,0 +1,44 @@
+
+        .section1 {
+            padding-left: 10vw;
+            padding-right: 10vw;
+            background-color: blue;
+            height: 60vh;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .section2 {
+            background-color: red;
+            height: 60vh;
+        }
+
+        .section3 {
+            background-color: orange;
+            height: 60vh;
+        }
+
+        .section4 {
+            background-color: lightgreen;
+            height: 60vh;
+        }
+
+        .section5 {
+            background-color: darkblue;
+            height: 60vh;
+        }
+
+        .section6 {
+            background-color: yellow;
+            height: 60vh;
+        }
+
+        .section7 {
+            background-color: blue;
+            height: 60vh;
+        }
+
+        #section1_id {
+            height: 80vh;
+            background-color: green;
+        }
