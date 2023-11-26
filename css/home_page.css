@@ -8,7 +8,8 @@
 }
 
 .sec1 {
-    background-image: url('asset/img.jpg');
+    background-image: url('img.jpg');
+    background-size: cover;
     padding-left: 10%;
     padding-right: 10%;
     margin: 0 auto;
