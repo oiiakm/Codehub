@@ -8,7 +8,7 @@
 }
 
 .sec1 {
-    background-image: url('img.jpg');
+    background-image: url('https://image.lexica.art/full_webp/8221c4bd-7646-41ed-8598-2eac9dedb802');
     background-size: cover;
     padding-left: 10%;
     padding-right: 10%;
@@ -16,6 +16,8 @@
     display: inline-block;
     text-align: center;
     height: 50vw;
+    width: 100%;
+    color: white;
 }
 
 .mat {
